@@ -1,0 +1,12 @@
+{
+  "name": "vue2-admin-starter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:admin-base": "pnpm --filter @vas/admin-base dev",
+    "dev:admin": "pnpm --filter @vas/admin dev",
+    "dev:service": "pnpm --filter @vas/service dev"
+  },
+  "license": "ISC"
+}
