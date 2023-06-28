@@ -1,0 +1,364 @@
+{"date":"2023-06-28 17:09:29","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:47:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:10:24","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:49:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:13:18","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:49:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:13:33","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:49:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:14:34","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:49:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:15:42","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:47:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:16:51","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:47:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:17:08","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:47:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:17:25","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:49:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:18:09","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:49:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:19:01","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:49:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:23:57","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:48:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:25:31","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:48:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+
+{"date":"2023-06-28 17:25:43","type":"FATAL","data":"{
+  err: Error: listen EADDRINUSE: address already in use :::3100
+      at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+      at listenInCluster (net.js:1379:12)
+      at Server.listen (net.js:1465:7)
+      at Function.listen (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/node_modules/.pnpm/registry.npmmirror.com+express@4.18.2/node_modules/express/lib/application.js:635:24)
+      at Object.<anonymous> (/Users/seven/WebProjects/myself/open-source-exercise/admin-starter/packages/service/app.js:48:8)
+      at Module._compile (internal/modules/cjs/loader.js:1085:14)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+      at Module.load (internal/modules/cjs/loader.js:950:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12) {
+    code: 'EADDRINUSE',
+    errno: -48,
+    syscall: 'listen',
+    address: '::',
+    port: 3100
+  },
+  code: 500,
+  msg: '后端系统错误！！',
+  portName: undefined,
+  body: undefined,
+  query: undefined,
+  method: undefined
+}"} 
+

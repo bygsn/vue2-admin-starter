@@ -1,16 +1,17 @@
 {
   "name": "@vas/service",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve --port 8080 --host 127.0.0.1",
-    "build": "vue-cli-service build",
-    "dev": "nodemon ./app.js"
+    "start:base": "cross-env NODE_ENV=base nodemon ./app.js",
+    "start:full": "cross-env NODE_ENV=full nodemon ./app.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "cos-nodejs-sdk-v5": "^2.5.20",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.3.1",
     "express": "^4.17.1",
     "express-session": "^1.16.1",
     "fs": "0.0.1-security",

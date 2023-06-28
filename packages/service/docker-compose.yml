@@ -9,5 +9,6 @@ services:
       - MYSQL_ROOT_PASSWORD=password
     volumes:
       - ./sql/vue_admin_base.sql:/docker-entrypoint-initdb.d/vue_admin_base.sql
+      - ./sql/vue_admin_full.sql:/docker-entrypoint-initdb.d/vue_admin_full.sql
     command: >
       --default-authentication-plugin=mysql_native_password

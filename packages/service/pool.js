@@ -1,12 +1,21 @@
-const mysql=require("mysql2");
+const mysql = require("mysql2");
 
-const pool=mysql.createPool({
-	host:"localhost",
-	port:3306,
-	user:"root",
-	password:"password",
-	database:"vue_admin_base",
-	connectionLimit:15
+const {
+	MYSQL_HOST,
+	MYSQL_PORT,
+	MYSQL_USER,
+	MYSQL_PASSWORD,
+	MYSQL_DATABASE,
+	MYSQL_CONNECTION_LIMIT,
+} = process.env;
+
+const pool = mysql.createPool({
+	host: MYSQL_HOST,
+	port: MYSQL_PORT,
+	user: MYSQL_USER,
+	password: MYSQL_PASSWORD,
+	database: MYSQL_DATABASE,
+	connectionLimit: MYSQL_CONNECTION_LIMIT,
 });
 
-module.exports=pool;
+module.exports = pool;

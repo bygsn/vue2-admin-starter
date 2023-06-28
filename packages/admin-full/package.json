@@ -1,5 +1,5 @@
 {
-  "name": "@vas/admin",
+  "name": "@vas/admin-full",
   "version": "4.3.1",
   "description": "vue2 element-ui 后台管理系统",
   "scripts": {

@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev:admin-base": "pnpm --filter @vas/admin-base dev",
-    "dev:admin": "pnpm --filter @vas/admin dev",
-    "dev:service": "pnpm --filter @vas/service dev"
+    "dev:base": "pnpm --filter @vas/admin-base dev",
+    "dev:full": "pnpm --filter @vas/admin-full dev",
+    "start:base": "pnpm --filter @vas/service start:base",
+    "start:full": "pnpm --filter @vas/service start:full"
   },
   "license": "ISC"
 }
